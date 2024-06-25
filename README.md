@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Formado em Analise e Desenvolvimento de Sistemas<br>Atualmente cursando Técnico em Informática para Internet no SENAI</p>
+<p align="left">Formado em Análise e Desenvolvimento de Sistemas<br>Atualmente cursando Técnico em Informática para Internet no SENAI</p>
 
 ###
 
@@ -46,5 +46,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/lucasmarqoliv/lucasmarqoliv/output/snake.svg" alt="Snake animation" />
 
 ###
