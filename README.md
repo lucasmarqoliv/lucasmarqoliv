@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Formado em Analise e Desenvolvimento de Sistemas<br>Atualmente cursando  programação Fullstack no Senai</p>
+<p align="left">Formado em Analise e Desenvolvimento de Sistemas<br>Atualmente cursando Técnico em Informática para Internet no SENAI</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmarqoliv&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -21,15 +27,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 </div>
-
-###
-
-<h2 align="left">Estatísticas</h2>
-
 
 ###
 
